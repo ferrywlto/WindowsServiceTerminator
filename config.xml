@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<service2close>
+  <entry name="Apache2.2"/>
+  <entry name="Apple Mobile Device"/>
+  <entry name="aswUpdSv"/>
+  <entry name="usnjsvc"/>
+  <entry name="stisvc"/>
+  <entry name="srservice"/>
+  <entry name="Spooler"/>
+  <entry name="Schedule"/>
+  <entry name="RDSessMgr"/>
+  <entry name="ose"/>
+  <entry name="MySQL"/>
+  <entry name="MSIServer"/>
+  <entry name="mnmsrvc"/>
+  <entry name="Messenger"/>
+  <entry name="helpsvc"/>
+  <entry name="gusvc"/>
+  <entry name="BITS"/>
+  <entry name="FastUserSwitchingCompatibility"/>
+  <entry name="iPod Service"/>
+  <entry name="Bonjour Service"/>
+  <entry name="avast! Antivirus"/>
+  <entry name="avast! Web Scanner"/>
+  <entry name="avast! Mail Scanner"/>
+  <entry name="UPS"/>
+  <entry name="VMAuthdService"/>
+  <entry name="VMnetDHCP"/>
+  <entry name="vmount2"/>
+  <entry name="VMware NAT"/>
+  <entry name="W32Time"/>
+  <entry name="WinDefend"/>
+  <entry name="gusvc"/>
+  <entry name="WLSetupSvc"/>
+  <entry name="WmdmPmSN"/>
+  <entry name="WMPNetworkSvc"/>
+  <entry name="wuauserv"/>
+  <entry name="WZCSVC"/>
+</service2close>
